@@ -1,2 +1,2 @@
 # simplecontrol
-Simplebräu Simpleboard Control Software
+Stoffbraeu Technology Solutions Simpleboard Control Software
